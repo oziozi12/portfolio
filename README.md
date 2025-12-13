@@ -1,7 +1,7 @@
 
   # Portfolio Website
 
-  This is a code bundle for Portfolio Website. The original project is available at https://www.figma.com/design/m81x5N8gTbwo23nv6qJu6l/Portfolio-Website.
+  is not ready yet
 
   ## Running the code
 
